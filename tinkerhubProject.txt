@@ -1,0 +1,1022 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link href="https://code.getmdl.io/1.3.0/material.orange-deep_orange.min.css" rel="stylesheet" />
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <meta charset="UTF-8" />
+    <meta content="Online tutorials to learn HTML CSS Python Java Digital Marketing and many more" name="description" />
+    <meta content="width=device-width,initial-scale=1.0" name="viewport" />
+    <title>CodeBro-Online Tutorials</title>
+</head>
+
+<body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header">
+            <div class="mdl-layout__header-row">
+                <span class="mdl-layout-title">CodeBro</span>
+
+                <div class="mdl-layout-spacer"></div>
+
+                <nav class="mdl-navigation mdl-layout--large-screen-only">
+                    <a class="mdl-navigation__link" href="page2.html">
+                        HTML CSS
+                    </a>
+                    <a class="mdl-navigation__link" href="page3.html">Python</a>
+                    <a class="mdl-navigation__link" href="page4.html">Java</a>
+                    <a class="mdl-navigation__link" href="page5.html">Digital Marketing</a>
+                    <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a>
+
+                </nav>
+            </div>
+        </header>
+        <div class="mdl-layout__drawer">
+            <span class="mdl-layout-title">CodeBro</span>
+            <nav class="mdl-navigation">
+                <a class="mdl-navigation__link" href="page2.html">HTML CSS</a>
+                <a class="mdl-navigation__link" href="page3.html">Python</a>
+                <a class="mdl-navigation__link" href="page4.html">Java</a>
+                <a class="mdl-navigation__link" href="page5.html">Digital Marketing</a>
+                <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a>
+
+            </nav>
+        </div>
+        <main class="mdl-layout__content">
+            <div class="page-content">
+                <img src="doodle.jpg" alt="CodeBro icon" height=250 class="centre" />
+                <br />
+                <h5>Looking to learn and develop new skills?</h5><br />
+                <h1>Welcome to CodeBro</h1>
+                <hr />
+                <h3>
+                    <br />
+                    <br />Here at CodeBro, You will have access to one of the most reliable and Quality videos
+                    <br />on the most in-demand skills which will prove handy for your career.
+                </h3>
+                <br />
+                <h4>So what are you waiting for?Lets get Started!!</h4>
+                <div class="border">
+
+                    We have:
+                    <br />
+                    <ul>
+                        <li>HTML CSS</li>
+                        <li>Javascript</li>
+
+                        <li>Python</li>
+                        <li>Java</li>
+                        <li>Digital Marketing</li>
+                    </ul>
+                    </h3>
+                </div><br />
+                <style>
+                    .demo-card-wide.mdl-card {
+                        width: 512px;
+                        margin-left: auto;
+                        margin-right: auto;
+                    }
+                    
+                    .demo-card-wide>.mdl-card__title {
+                        color: #000000;
+                        height: 176px;
+                        background: url("intern.jpg");
+                    }
+                    
+                    .demo-card-wide>.mdl-card__menu {
+                        color: #fff;
+                    }
+                </style>
+
+                <div class="demo-card-wide mdl-card mdl-shadow--2dp">
+                    <div class="mdl-card__title">
+                        <h2 class="mdl-card__title-text">Want to gain Professional Experience?</h2>
+                    </div>
+                    <div class="mdl-card__supporting-text">
+                        Look for internships in any field you like in the biggest internship platform in India.
+                    </div>
+                    <div class="mdl-card__actions mdl-card--border">
+                        <a href="https://internshala.com/" target="_blank" class=" mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect ">
+                          Get Started
+                        </a>
+                    </div>
+                </div><br />
+                <footer class="mdl-mini-footer ">
+                    <div class="mdl-mini-footer__left-section ">
+                        <div class="mdl-logo ">CodeBro</div>
+                        <ul class="mdl-mini-footer__link-list ">
+                            <li><a href="https://internshala.com/ " target="_blank">Look for Internships</a></li>
+                            <li>
+                                <a href="about.html ">About me</a>
+                            </li>
+                            <li><a href="contact.html ">Contact Me</a></li>
+                        </ul>
+                    </div>
+                </footer>
+        </main>
+        </div>
+</body>
+
+</html>
+-----------------------------------------------------------------page2-----------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-orange.min.css" />
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <meta charset="UTF-8" />
+    <meta content="Online videos to learn web development using html css and firebase hosting for beginners" name="description" />
+    <meta content="width=device-width,initial-scale=1.0" name="viewport" />
+    <title>HTML CSS for beginners-CodeBro</title>
+</head>
+
+<body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header">
+            <div class="mdl-layout__header-row">
+                <span class="mdl-layout-title">CodeBro</span>
+
+                <div class="mdl-layout-spacer"></div>
+
+                <nav class="mdl-navigation mdl-layout--large-screen-only">
+                    <a class="mdl-navigation__link" href="index.html">
+                        Home
+                    </a>
+                    <a class="mdl-navigation__link" href="page3.html">Python</a>
+                    <a class="mdl-navigation__link" href="page4.html">Java</a>
+                    <a class="mdl-navigation__link" href="page5.html">Digital Marketing</a>
+                    <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a>
+
+
+                </nav>
+            </div>
+        </header>
+        <div class="mdl-layout__drawer">
+            <span class="mdl-layout-title">CodeBro</span>
+            <nav class="mdl-navigation">
+                <a class="mdl-navigation__link" href="index.html">Home</a>
+                <a class="mdl-navigation__link" href="page3.html">Python</a>
+                <a class="mdl-navigation__link" href="page4.html">Java</a>
+                <a class="mdl-navigation__link" href="page5.html">Digital Marketing</a>
+                <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a>
+
+
+            </nav>
+        </div>
+        <main class="mdl-layout__content">
+            <div class="page-content">
+                <img src="hcj.jpg" alt="html icon" height=200 width=400 ss="centre" />
+                <h1>Web Development using HTML CSS</h1>
+                <hr/>
+
+                <h3>HTML</h3>
+
+                <div class="wrapper">
+                    <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" onclick="document.querySelector('#htmlCont').classList.add('reveal')">
+                            <span class="material-icons">expand_more</span>
+                        </button>
+                </div>
+                <div class="content" id="htmlCont">
+                    <h6>
+                        HTML(Hyper text Markup Language) is the most basic building block of the web.It defines the meaning and structure of the web content
+                    </h6>
+                    <br />
+                    <p>To learn more...Click Start and watch the playlist</p>
+
+                    <a href="https://youtu.be/dD2EISBDjWM" target="_blank">
+                        <div class="wrapper">
+                            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                                    Click Here To Start
+                                </button>
+                        </div>
+                    </a>
+                    <br />
+                    <p>Not a beginner?Click Advanced Learning</p>
+                    <a href="https://www.w3schools.com/html/" target="_blank">
+                        <div class="wrapper">
+                            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                                    Advanced Learning
+                                </button>
+                        </div>
+                    </a>
+                </div>
+
+                <h3>CSS</h3>
+                <div class="wrapper">
+                    <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" onclick="document.querySelector('#cssCont').classList.add('reveal')">
+                            <span class="material-icons">expand_more</span>
+                        </button>
+                </div>
+                <div class="content" id="cssCont">
+                    <h6>
+                        Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML.
+                    </h6>
+                    <h6>CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. </h6>
+                    <br />
+                    <h6>To learn more...Click start and watch the playlist</h6>
+                    <a href="https://youtu.be/qKoajPPWpmo" target="_blank">
+                        <div class="wrapper">
+                            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                                    Click Here To Start
+                                </button>
+                        </div>
+                    </a>
+                    <br />
+                    <h6>Not a beginner?Click Advanced Learning</h6>
+                    <a href="https://www.w3schools.com/w3css/" target="_blank">
+                        <div class="wrapper">
+                            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                                    Advanced Learning
+                                </button>
+                        </div>
+                    </a>
+                </div>
+
+                <h3>JavaScript</h3>
+                <div class="wrapper">
+                    <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" onclick="document.querySelector('#jsCont').classList.add('reveal')">
+                            <span class="material-icons">expand_more</span>
+                        </button>
+                </div>
+                <div class="content" id="jsCont">
+                    <h6>
+                        JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification.
+                        <br />JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+                    </h6>
+                    <br />
+                    <p>To learn more...Click start and watch the playlist</p>
+                    <a href="https://youtu.be/uDwSnnhl1Ng" target="_blank">
+                        <div class="wrapper">
+                            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                                    Click Here To Start
+                                </button>
+                        </div>
+                    </a>
+                    <br />
+                    <p>Not a beginner?Click Advanced Learning</p>
+                    <a href="https://www.w3schools.com/js/" target="_blank">
+                        <div class="wrapper">
+                            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                                    Advanced Learning
+                                </button>
+                        </div>
+                    </a>
+                </div>
+
+
+            </div><br />
+            <footer class="mdl-mini-footer">
+                <div class="mdl-mini-footer__left-section">
+                    <div class="mdl-logo">CodeBro</div>
+                    <ul class="mdl-mini-footer__link-list">
+                        <li><a href="https://internshala.com/" target="_blank">Look for Internships</a></li>
+                        <li>
+                            <a href="about.html">About me</a>
+                        </li>
+                        <li><a href="contact.html">Contact Me</a></li>
+                    </ul>
+                </div>
+            </footer>
+    </div>
+    </main>
+    </div>
+</body>
+
+</html>
+----------------------------------------------------page3--------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.teal-pink.min.css" />
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <meta charset="UTF-8" />
+    <meta content="Online videos to learn Web Development using Python" name="description" />
+    <meta content="width=device-width,initial-scale=1.0" name="viewport" />
+    <title>Python-CodeBro for beginners</title>
+</head>
+
+<body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header">
+            <div class="mdl-layout__header-row">
+                <span class="mdl-layout-title">CodeBro</span>
+
+                <div class="mdl-layout-spacer"></div>
+
+                <nav class="mdl-navigation mdl-layout--large-screen-only">
+                    <a class="mdl-navigation__link" href="index.html">Home</a>
+                    <a class="mdl-navigation__link" href="page2.html">
+              HTML CSS
+            </a>
+                    <a class="mdl-navigation__link" href="page4.html">Java</a>
+                    <a class="mdl-navigation__link" href="page5.html">
+              Digital Marketing
+            </a>
+                    <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a
+            >
+          </nav>
+        </div>
+      </header>
+      <div class="mdl-layout__drawer">
+        <span class="mdl-layout-title">CodeBro</span>
+        <nav class="mdl-navigation">
+          <a class="mdl-navigation__link" href="index.html">Home</a>
+                    <a class="mdl-navigation__link" href="page2.html">HTML CSS</a>
+                    <a class="mdl-navigation__link" href="page4.html">Java</a>
+                    <a class="mdl-navigation__link" href="page5.html">
+            Digital Marketing
+          </a>
+                    <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a
+          >
+          
+                </nav>
+            </div>
+            <main class="mdl-layout__content">
+                <div class="page-content">
+                    <img alt="Python icon" class="centre" height="200" src="py.png" />
+                    <h2>Python</h2>
+                    <hr />
+                    <h6>
+                        Python is an interpreted, high-level, general-purpose programming language.
+                        <br />Created by Guido van Rossum and first released in 1991, Python 's design philosophy emphasizes code readability with its notable use of significant whitespace.
+                    </h6>
+                    <h3>Installation</h3>
+                    <br />
+                    <h6>
+                        Installing Python is generally easy, and nowadays many Linux and UNIX distributions include a recent Python.
+                        <br />Even some Windows computers (notably those from HP) now come with Python already installed.<br /> If you do need to install Python and aren 't confident about the task you can find a few notes on the page below, <br />but
+                        installation is unremarkable on most platforms.
+                    </h6>
+                    <a href="http://wiki.python.org/moin/BeginnersGuide/Download" target="_blank">
+                        <div class="wrapper">
+                            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                Installation Guide
+              </button>
+                        </div>
+                    </a>
+                    <h3>Tutorial</h3>
+                    <a href="https://youtu.be/hEgO047GxaQ" target="_blank ">
+                        <div class="wrapper">
+                            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                Click Here To Start
+              </button>
+                        </div>
+                    </a>
+                    <h3>Google Colab</h3>
+                    <h5>
+                        You can also write and run python programs in Google Colaboratory.
+                        <br />Google Colab simulates the program you have written and gives the output. <br />This is the most recommended way to learn python
+                    </h5>
+                    <h3>Questions</h3>
+                    <h6>If you have a question,Try the Python.org FAQ</h6>
+                    <a href="http://docs.python.org/3/faq/" target="_blank">
+                        <div class="wrapper">
+                            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                FAQ
+              </button>
+                        </div>
+                    </a><br />
+                    <footer class="mdl-mini-footer">
+                        <div class="mdl-mini-footer__left-section">
+                            <div class="mdl-logo">CodeBro</div>
+                            <ul class="mdl-mini-footer__link-list">
+                                <li>
+                                    <a href="https://internshala.com/" target="_blank">Look for Internships</a>
+                                </li>
+                                <li>
+                                    <a href="about.html">About me</a>
+                                </li>
+                                <li><a href="contact.html">Contact Me</a></li>
+                            </ul>
+                        </div>
+                    </footer>
+            </div>
+            </main>
+    </div>
+</body>
+
+</html>
+-----------------------------------------------------------page4------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.green-indigo.min.css" />
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <meta charset="UTF-8" />
+    <meta content="Online videos to learn Java Programming" name="description" />
+    <meta content="width=device-width,initial-scale=1.0" name="viewport" />
+    <title>Java-CodeBro for beginners</title>
+</head>
+
+<body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header">
+            <div class="mdl-layout__header-row">
+                <span class="mdl-layout-title">CodeBro</span>
+
+                <div class="mdl-layout-spacer"></div>
+
+                <nav class="mdl-navigation mdl-layout--large-screen-only">
+                    <a class="mdl-navigation__link" href="index.html">Home</a>
+                    <a class="mdl-navigation__link" href="page2.html">
+              HTML CSS
+            </a>
+                    <a class="mdl-navigation__link" href="page3.html">Python</a>
+                    <a class="mdl-navigation__link" href="page5.html">
+              Digital Marketing
+            </a>
+                    <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a
+            >
+          </nav>
+        </div>
+      </header>
+      <div class="mdl-layout__drawer">
+        <span class="mdl-layout-title">CodeBro</span>
+        <nav class="mdl-navigation">
+          <a class="mdl-navigation__link" href="index.html">Home</a>
+                    <a class="mdl-navigation__link" href="page2.html">HTML CSS</a>
+                    <a class="mdl-navigation__link" href="page3.html">Python</a>
+                    <a class="mdl-navigation__link" href="page5.html">
+            Digital Marketing
+          </a>
+                    <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a
+          >
+          
+                </nav>
+            </div>
+            <main class="mdl-layout__content">
+                <div class="page-content">
+                    <img alt="Java icon" class="centre" height="200" src="java.png" />
+                    <h2>Java</h2>
+                    <hr/>
+                    <h6>
+                        Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible.<br />It is the most commonly used language for mobile apps,Games,Web Apps,etc
+                    </h6>
+                    <h3>Tutorials</h3>
+                    <a href="https://www.w3schools.com/java/java_intro.asp" target="_blank">
+                        <div class="wrapper">
+                            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                Tutorials
+              </button>
+                        </div>
+                    </a><br />
+                    <a href="https://youtu.be/r59xYe3Vyks" target="_blank">
+                        <div class="wrapper">
+                            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                Video Tutorials
+              </button>
+                        </div>
+                    </a>
+                    <br />
+                    <h5>Java can also be coded and simulated in Google Colab</h5><br />
+                    <footer class="mdl-mini-footer">
+                        <div class="mdl-mini-footer__left-section">
+                            <div class="mdl-logo">CodeBro</div>
+                            <ul class="mdl-mini-footer__link-list">
+                                <li><a href="https://internshala.com/" target="_blank">Look for Internships</a></li>
+                                <li>
+                                    <a href="about.html">About me</a>
+                                </li>
+                                <li><a href="contact.html">Contact Me</a></li>
+                            </ul>
+                        </div>
+                    </footer>
+            </div>
+            </main>
+    </div>
+</body>
+
+</html>
+--------------------------------------------------------------page5---------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.yellow-deep_orange.min.css" />
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <meta charset="UTF-8" />
+    <meta content="Online videos to learn Digital Marketing" name="description" />
+    <meta content="width=device-width,initial-scale=1.0" name="viewport" />
+    <title>Digital Marketing-CodeBro for beginners</title>
+</head>
+
+<body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header">
+            <div class="mdl-layout__header-row">
+                <span class="mdl-layout-title">CodeBro</span>
+
+                <div class="mdl-layout-spacer"></div>
+
+                <nav class="mdl-navigation mdl-layout--large-screen-only">
+                    <a class="mdl-navigation__link" href="index.html">Home</a>
+                    <a class="mdl-navigation__link" href="page2.html">
+              HTML CSS
+            </a>
+                    <a class="mdl-navigation__link" href="page3.html">Python</a>
+                    <a class="mdl-navigation__link" href="page4.html"> Java </a>
+                    <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a
+            >
+            
+                </nav>
+            </div>
+        </header>
+        <div class="mdl-layout__drawer">
+            <span class="mdl-layout-title">CodeBro</span>
+            <nav class="mdl-navigation">
+                <a class="mdl-navigation__link" href="index.html">Home</a>
+                    <a class="mdl-navigation__link" href="page2.html">HTML CSS</a>
+                    <a class="mdl-navigation__link" href="page3.html">Python</a>
+                    <a class="mdl-navigation__link" href="page4.html">
+            Java
+          </a>
+                    <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a
+          >
+        </nav>
+      </div>
+      <main class="mdl-layout__content">
+        <div class="page-content">
+          <h2>Digital Marketing</h2><hr/>
+          <h6>
+            Digital marketing is the component of marketing that utilizes
+            internet and online based digital technologies<br />
+            such as desktop computers, mobile phones and other digital media and
+            platforms to promote products and services.
+          </h6>
+          <h6>To understand more about Digital Marketing</h6>
+          <a
+            href="https://neilpatel.com/what-is-digital-marketing/"
+            target="_blank"
+          >
+            <div class="wrapper">
+              <button
+                class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored"
+              >
+                Click Here
+              </button>
+            </div>
+          </a>
+                    <br />
+                    <a href="https://youtu.be/wfOp0lsCXAY" target="_blank">
+                        <div class="wrapper">
+                            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                Video Tutorials
+              </button>
+                        </div>
+                    </a><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+                    <footer class="mdl-mini-footer">
+                        <div class="mdl-mini-footer__left-section">
+                            <div class="mdl-logo">CodeBro</div>
+                            <ul class="mdl-mini-footer__link-list">
+                                <li>
+                                    <a href="https://internshala.com/" target="_blank"> Look for Internships</a>
+                                </li>
+                                <li>
+                                    <a href="about.html">About me</a>
+                                </li>
+                                <li><a href="contact.html">Contact Me</a></li>
+                            </ul>
+                        </div>
+                    </footer>
+            </div>
+            </main>
+    </div>
+</body>
+
+</html>
+----------------------------------------------------------page6------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.purple-orange.min.css" />
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <meta charset="UTF-8" />
+    <meta content="Links to Certified Online Courses" name="description" />
+    <meta content="width=device-width,initial-scale=1.0" name="viewport" />
+    <title>Certified Online Courses-CodeBro for beginners</title>
+</head>
+
+<body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header">
+            <div class="mdl-layout__header-row">
+                <span class="mdl-layout-title">CodeBro</span>
+
+                <div class="mdl-layout-spacer"></div>
+
+                <nav class="mdl-navigation mdl-layout--large-screen-only">
+                    <a class="mdl-navigation__link" href="index.html">Home</a>
+                    <a class="mdl-navigation__link" href="page2.html">
+              HTML CSS
+            </a>
+                    <a class="mdl-navigation__link" href="page3.html">Python</a>
+                    <a class="mdl-navigation__link" href="page4.html"> Java </a>
+                    <a class="mdl-navigation__link" href="page5.html">Digital Marketing</a
+            >
+          </nav>
+        </div>
+      </header>
+      <div class="mdl-layout__drawer">
+        <span class="mdl-layout-title">CodeBro</span>
+        <nav class="mdl-navigation">
+          <a class="mdl-navigation__link" href="index.html">Home</a>
+                    <a class="mdl-navigation__link" href="page2.html">HTML CSS</a>
+                    <a class="mdl-navigation__link" href="page3.html">Python</a>
+                    <a class="mdl-navigation__link" href="page4.html">
+            Java
+          </a>
+                    <a class="mdl-navigation__link" href="page5.html">Digital Marketing</a
+          >
+          
+                </nav>
+            </div>
+            <main class="mdl-layout__content">
+                <div class="page-content">
+                    <h2>Certified Online Courses</h2>
+                    <hr />
+                    <table class="mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp" id="tablecont">
+                        <thead>
+                            <tr>
+                                <th class="mdl-data-table__cell--non-numeric">Topic</th>
+                                <th>Udemy</th>
+                                <th>Coursera</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="mdl-data-table__cell--non-numeric">HTML CSS</td>
+                                <td>
+                                    <a href="https://www.udemy.com/courses/search/?src=ukw&q=html%20css" target="_blank "><img class="icons" src="udemy.png" alt="Udemy icon" /></a>
+                    </td>
+                    <td>
+                        <a href="https://www.coursera.org/search?query=html%20css&utm_medium=institutions&utm_source=umich&utm_campaign=adwords-web-design-for-everybody-introduction-to-html5&utm_term=%2Bonline%20%2Bhtml%20%2Bcourse&gclid=Cj0KCQjwpfHzBRCiARIsAHHzyZqp7jPbed9-tIHgMADM5yJ8bi6s165C4ugNsF2CALF_Ayewex2p-2MaAuqXEALw_wcB"
+                            target="_blank "><img class="icons" src="coursera.png" alt="Coursera icon" /></a>
+                    </td>
+                    </tr>
+                    <tr>
+                        <td class="mdl-data-table__cell--non-numeric">Python</td>
+                        <td>
+                            <a href="https://www.udemy.com/courses/search/?src=ukw&q=python" target="_blank ">
+                                <img class="icons" src="udemy.png" alt="Udemy icon" />
+                            </a>
+                        </td>
+                        <td>
+                            <a href="https://www.coursera.org/courses?query=python" target="_blank ">
+                                <img class="icons" src="coursera.png" alt="Coursera icon" />
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="mdl-data-table__cell--non-numeric">Java</td>
+                        <td>
+                            <a href="https://www.udemy.com/topic/java/" target="_blank ">
+                                <img class="icons" src="udemy.png" alt="Udemy icon" />
+                            </a>
+                        </td>
+                        <td>
+                            <a href="https://www.coursera.org/courses?query=introduction%20to%20java" target="_blank ">
+                                <img class="icons" src="coursera.png" alt="Coursera icon" />
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="mdl-data-table__cell--non-numeric">Digital Marketing</td>
+                        <td>
+                            <a href="https://www.udemy.com/topic/digital-marketing/" target="_blank ">
+                                <img class="icons" src="udemy.png" alt="Udemy icon" />
+                            </a>
+                        </td>
+                        <td>
+                            <a href="https://www.coursera.org/search?query=digital%20marketing&" target="_blank ">
+                                <img class="icons" src="coursera.png" alt="Coursera icon" />
+                            </a>
+                        </td>
+                    </tr>
+                    </tbody>
+                    </table>
+                    <br />
+                    <style>
+                        .demo-card-wide.mdl-card {
+                            width: 512px;
+                            margin-left: auto;
+                            margin-right: auto;
+                        }
+                        
+                        .demo-card-wide>.mdl-card__title {
+                            color: #000000;
+                            height: 176px;
+                            background: url("online.jpg");
+                        }
+                        
+                        .demo-card-wide>.mdl-card__menu {
+                            color: #fff;
+                        }
+                    </style>
+
+                    <div class="demo-card-wide mdl-card mdl-shadow--2dp">
+                        <div class="mdl-card__title">
+                            <h2 class="mdl-card__title-text">Looking for free Online Certified Courses?</h2>
+                        </div>
+                        <div class="mdl-card__supporting-text">
+                            Here you will find a bunch of free certified online courses on various topics
+                        </div>
+                        <div class="mdl-card__actions mdl-card--border">
+                            <a href="https://www.guru99.com/free-online-course-with-certificate.html" target="_blank" class=" mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect ">
+                              Get Started
+                            </a>
+                        </div>
+                    </div><br />
+                    <br /><br /><br /><br /><br /><br /><br />
+                    <footer class="mdl-mini-footer">
+                        <div class="mdl-mini-footer__left-section">
+                            <div class="mdl-logo">CodeBro</div>
+                            <ul class="mdl-mini-footer__link-list">
+                                <li><a href="https://internshala.com/" target="_blank">Look for Internships</a></li>
+                                <li><a href="about.html">About me</a></li>
+                                <li><a href="contact.html">Contact Me</a></li>
+                            </ul>
+                        </div>
+                    </footer>
+            </div>
+            </main>
+    </div>
+</body>
+
+</html>
+------------------------------------------------------CONTACT PAGE----------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link href="https://code.getmdl.io/1.3.0/material.orange-deep_orange.min.css" rel="stylesheet" />
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <meta charset="UTF-8" />
+    <meta content="Contact the developer" name="description" />
+    <meta content="width=device-width,initial-scale=1.0" name="viewport" />
+    <title>Contact CodeBro</title>
+</head>
+
+<body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header">
+            <div class="mdl-layout__header-row">
+                <span class="mdl-layout-title">CodeBro</span>
+
+                <div class="mdl-layout-spacer"></div>
+
+                <nav class="mdl-navigation mdl-layout--large-screen-only">
+                    <a class="mdl-navigation__link" href="index.html">Home</a>
+                    <a class="mdl-navigation__link" href="page2.html">
+                        HTML CSS
+                    </a>
+                    <a class="mdl-navigation__link" href="page3.html">Python</a>
+                    <a class="mdl-navigation__link" href="page4.html">Java</a>
+                    <a class="mdl-navigation__link" href="page5.html">Digital Marketing</a>
+                    <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a>
+
+                </nav>
+            </div>
+        </header>
+        <div class="mdl-layout__drawer">
+            <span class="mdl-layout-title">CodeBro</span>
+            <nav class="mdl-navigation">
+                <a class="mdl-navigation__link" href="index.html">Home</a>
+                <a class="mdl-navigation__link" href="page2.html">HTML CSS</a>
+                <a class="mdl-navigation__link" href="page3.html">Python</a>
+                <a class="mdl-navigation__link" href="page4.html">Java</a>
+                <a class="mdl-navigation__link" href="page5.html">Digital Marketing</a>
+                <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a>
+                <a class="mdl-navigation__link" href="settings.html">Settings</a>
+            </nav>
+        </div>
+        <main class="mdl-layout__content">
+            <div class="page-content">
+                <h2>Contact us</h2>
+                <hr />
+                <h5>Email:niranjankvariyar@gmail.com</h5>
+                <div class="link">
+                    <a href="https://github.com/vaarii21 " target="_blank ">
+                        <img class="icons" src="github.png" alt="My github"> </a><br />
+                    <a href="https://linkedin.com/in/niranjan-k-variyar-7a5194199" target="_blank ">
+                        <img class="icons" src="linkedin.png" alt="My Linkedin"> </a>
+                </div>
+                <h5>Phone:(+91)9946587261</h5><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+                <footer class="mdl-mini-footer">
+                    <div class="mdl-mini-footer__left-section">
+                        <div class="mdl-logo">CodeBro</div>
+                        <ul class="mdl-mini-footer__link-list">
+                            <li><a href="https://internshala.com/" target="_blank">Look for Internships</a></li>
+                            <li>
+                                <a href="about.html">About me</a>
+                            </li>
+                            <li><a href="contact.html">Contact Me</a></li>
+                        </ul>
+                    </div>
+                </footer>
+        </main>
+        </div>
+</body>
+
+</html>
+------------------------------------------------------ABOUT PAGE-------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link href="https://code.getmdl.io/1.3.0/material.orange-deep_orange.min.css" rel="stylesheet" />
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <meta charset="UTF-8" />
+    <meta content="About the Developer" name="description" />
+    <meta content="width=device-width,initial-scale=1.0" name="viewport" />
+    <title>CodeBro-About the Developer</title>
+</head>
+
+<body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header">
+            <div class="mdl-layout__header-row">
+                <span class="mdl-layout-title">CodeBro</span>
+
+                <div class="mdl-layout-spacer"></div>
+
+                <nav class="mdl-navigation mdl-layout--large-screen-only">
+                    <a class="mdl-navigation__link" href="index.html">Home</a>
+                    <a class="mdl-navigation__link" href="page2.html">
+                        HTML CSS
+                    </a>
+                    <a class="mdl-navigation__link" href="page3.html">Python</a>
+                    <a class="mdl-navigation__link" href="page4.html">Java</a>
+                    <a class="mdl-navigation__link" href="page5.html">Digital Marketing</a>
+                    <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a>
+
+                </nav>
+            </div>
+        </header>
+        <div class="mdl-layout__drawer">
+            <span class="mdl-layout-title">CodeBro</span>
+            <nav class="mdl-navigation">
+                <a class="mdl-navigation__link" href="index.html">Home</a>
+                <a class="mdl-navigation__link" href="page2.html">HTML CSS</a>
+                <a class="mdl-navigation__link" href="page3.html">Python</a>
+                <a class="mdl-navigation__link" href="page4.html">Java</a>
+                <a class="mdl-navigation__link" href="page5.html">Digital Marketing</a>
+                <a class="mdl-navigation__link" href="page6.html">Certified Online Courses</a>
+                <a class="mdl-navigation__link" href="settings.html">Settings</a>
+            </nav>
+        </div>
+        <main class="mdl-layout__content">
+            <div class="page-content">
+                <img src="dp.jpg" alt="Niranjan's Picture" height=250 class="centre" />
+                <br /><br />
+
+                <h1>Niranjan K Variyar</h1><br />
+
+                <h2 id="edutitle ">Education</h2>
+            </div>
+
+
+            <div class="wrapper"><button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" onclick="document.querySelector('#eduCont').classList.add('reveal')"> <span class="material-icons">
+                    expand_more
+                    </span> </button>
+            </div>
+            <div class="content border" id="eduCont">
+                <h3>Sree Chitra Thirunal College Of Engineering</h3>
+                <p>B.Tech in <i>Electronics and Communication</i></p>
+                <h3>Sarvodaya Vidyalaya</h3>
+                <p>Class 12 in ISC Computer-Maths Major</p>
+            </div>
+
+
+            <h2>Experiences</h2>
+            <div class="wrapper">
+                <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" onclick="document.querySelector('#exCont').classList.add('reveal')"><span class="material-icons">
+                    expand_more  </button></div>
+            <div class="content" id="exCont">
+                <h3>Infox Technologies</h3>
+                <p class="subtitle">15 days Internship on <b>Java Programming</b></P>
+                <h3>Thenmala Irrigation Project</h3>
+                <p>3 day internship on <b>power generation and distribution.</b></p>
+                <h3>Internshala</h3>
+                <p>Participated in the Internshala Student Program</p>
+                <h2>Organisations</h2>
+                <h3>IEEE</h3>
+                <p>
+                    <ul>
+                        <li>Participated in various Hackathons</li>
+                        <li>Conducted a technical Treasure hunt</li>
+                        <li>Volunteered for Dyuthi(the technical fest conducted by IEEE SCT SB)</li>
+
+                    </ul>
+                </p>
+                <h3>IEDC</h3>
+                <p>Participated in the National Ideathon conducted by IEDC SCT</p>
+            </div>
+
+            <footer class="mdl-mini-footer">
+                <div class="mdl-mini-footer__left-section">
+                    <div class="mdl-logo">CodeBro</div>
+                    <ul class="mdl-mini-footer__link-list">
+                        <li><a href="https://internshala.com/" target="_blank">Look for Internships</a></li>
+                        <li>
+                            <a href="about.html">About me</a>
+                        </li>
+                        <li><a href="contact.html">Contact Me</a></li>
+                    </ul>
+                </div>
+            </footer>
+        </main>
+    </div>
+</body>
+
+</html>
+------------------------------------------------------STYLESHEET--------------------------------------------------------------------------
+body {
+    background-image: url("bg.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 500;
+    text-align: center;
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: 500;
+    text-align: center;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.border {
+    border: 3px solid #ff5e00;
+    margin: 60px;
+    padding: 60px;
+    text-align: left !important;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.content {
+    display: none;
+}
+
+.content.reveal {
+    display: block;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    margin: auto;
+    border-radius: 50%;
+}
+
+.link {
+    text-align: center;
+}
+
+.icons {
+    height: 48px;
+}
+
+#tablecont {
+    color: black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
